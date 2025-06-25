@@ -1,0 +1,292 @@
+row_id,icd9_code,short_title,long_title
+50,01786,TB esophagus-oth test,"Tuberculosis of esophagus, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+100,01002,Prim TB complex-exm unkn,"Primary tuberculous infection, bacteriological or histological examination unknown (at present)"
+150,01133,TB of bronchus-micro dx,"Tuberculosis of bronchus, tubercle bacilli found (in sputum) by microscopy"
+200,01204,TB pleurisy-cult dx,"Tuberculous pleurisy, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+250,0039,Salmonella infection NOS,"Salmonella infection, unspecified"
+300,01596,TB bone/jt NOS-oth test,"Tuberculosis of unspecified bones and joints, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+350,01670,TB female gen NEC-unspec,"Tuberculosis of other female genital organs, unspecified"
+400,0914,Syphilitic adenopathy,Adenopathy due to secondary syphilis
+450,0971,Latent syphilis NOS,"Latent syphilis, unspecified"
+500,04143,Shga txn prod E.coli NOS,"Shiga toxin-producing Escherichia coli [E. coli] (STEC), unspecified"
+550,0501,Alastrim,Alastrim
+600,0548,H simplex complicat NOS,Herpes simplex with unspecified complication
+650,03819,Staphylcocc septicem NEC,Other staphylococcal septicemia
+700,0219,Tularemia NOS,Unspecified tularemia
+750,01310,Tubrclma meninges-unspec,"Tuberculoma of meninges, unspecified"
+800,01391,Cns TB NOS-no exam,"Unspecified tuberculosis of central nervous system, bacteriological or histological examination not done"
+850,01562,TB of mastoid-exam unkn,"Tuberculosis of mastoid, bacteriological or histological examination unknown (at present)"
+900,1363,Pneumocystosis,Pneumocystosis
+950,20243,Hairy-cell leukem abdom,"Leukemic reticuloendotheliosis, intra-abdominal lymph nodes"
+1000,0624,Australian encephalitis,Australian encephalitis
+1050,0709,Viral hepat NOS w/o coma,Unspecified viral hepatitis without mention of hepatic coma
+1100,0790,Adenovirus infect NOS,Adenovirus infection in conditions classified elsewhere and of unspecified site
+1150,1439,Malig neo gum NOS,"Malignant neoplasm of gum, unspecified"
+1200,1512,Mal neo pyloric antrum,Malignant neoplasm of pyloric antrum
+1250,1712,Mal neo soft tissue arm,"Malignant neoplasm of connective and other soft tissue of upper limb, including shoulder"
+1300,17380,Mal neo skn site NEC/NOS,Unspecified malignant neoplasm of other specified sites of skin
+1350,1710,Mal neo soft tissue head,"Malignant neoplasm of connective and other soft tissue of head, face, and neck"
+1400,1110,Pityriasis versicolor,Pityriasis versicolor
+1450,1170,Rhinosporidiosis,Rhinosporidiosis
+1500,1254,Dipetalonemiasis,Dipetalonemiasis
+1550,20115,Hodgkins granulom inguin,"Hodgkin's granuloma, lymph nodes of inguinal region and lower limb"
+1600,25021,DMI hprsm nt st uncntrld,"Diabetes with hyperosmolarity, type I [juvenile type], not stated as uncontrolled"
+1650,2647,Vit A ocular defic NEC,Other ocular manifestations of vitamin A deficiency
+1700,20202,Nodular lymphoma thorax,"Nodular lymphoma, intrathoracic lymph nodes"
+1750,2384,Polycythemia vera,Polycythemia vera
+1800,2450,Acute thyroiditis,Acute thyroiditis
+1850,20270,Periph T cell lym xtrndl,"Peripheral T cell lymphoma, unspecified site, extranodal and solid organ sites"
+1900,20492,Lymp leuk NOS relapse,"Unspecified lymphoid leukemia, in relapse"
+1950,1759,Mal neo male breast NEC,Malignant neoplasm of other and unspecified sites of male breast
+2000,1886,Mal neo ureteric orifice,Malignant neoplasm of ureteric orifice
+2050,1954,Malign neopl arm,Malignant neoplasm of upper limb
+2100,20017,Lymphosarcoma spleen,"Lymphosarcoma, spleen"
+2150,20073,Large cell lymph abdom,"Large cell lymphoma, intra-abdominal lymph nodes"
+2200,27905,Immunodefic w hyper-igm,Immunodeficiency with increased IgM
+2250,2827,Hemoglobinopathies NEC,Other hemoglobinopathies
+2300,2536,Neurohypophysis dis NEC,Other disorders of neurohypophysis
+2350,20916,Mal carcinoid sig colon,Malignant carcinoid tumor of the sigmoid colon
+2400,2104,Benign neo mouth NEC/NOS,Benign neoplasm of other and unspecified parts of mouth
+2450,2158,Ben neo soft tissue NEC,Other benign neoplasm of connective and other soft tissue of other specified sites
+2500,2249,Benign neoplasm eye NOS,"Benign neoplasm of eye, part unspecified"
+2550,2328,Ca in situ skin NEC,Carcinoma in situ of other specified sites of skin
+2600,29689,Bipolar disorder NEC,Other bipolar disorders
+2650,3010,Paranoid personality,Paranoid personality disorder
+2700,30390,Alcoh dep NEC/NOS-unspec,"Other and unspecified alcohol dependence, unspecified"
+2750,2727,Lipidoses,Lipidoses
+2800,3484,Compression of brain,Compression of brain
+2850,34590,Epilep NOS w/o intr epil,"Epilepsy, unspecified, without mention of intractable epilepsy"
+2900,30520,Cannabis abuse-unspec,"Cannabis abuse, unspecified"
+2950,30722,Chr motor/vocal tic dis,Chronic motor or vocal tic disorder
+3000,31089,Nonpsych mntl disord NEC,Other specified nonpsychotic mental disorders following organic brain damage
+3050,31531,Expressive language dis,Expressive language disorder
+3100,3240,Intracranial abscess,Intracranial abscess
+3150,2862,Cong factor xi disorder,Congenital factor XI deficiency
+3200,28950,Spleen disease NOS,"Disease of spleen, unspecified"
+3250,29381,Psy dis w delus oth dis,Psychotic disorder with delusions in conditions classified elsewhere
+3300,29561,Schizoph dis resid-subch,"Schizophrenic disorders, residual type, subchronic"
+3350,3331,Tremor NEC,Essential and other specified forms of tremor
+3400,33720,Unsp rflx sympth dystrph,"Reflex sympathetic dystrophy, unspecified"
+3450,34201,Flccd hmiplga domnt side,Flaccid hemiplegia and hemiparesis affecting dominant side
+3500,38021,Cholesteatoma extern ear,Cholesteatoma of external ear
+3550,3831,Chronic mastoiditis,Chronic mastoiditis
+3600,3278,Sleep organic disord NEC,Other organic sleep disorders
+3650,36902,One eye-near tot/oth-NOS,Better eye: near-total vision impairment; lesser eye: not further specified
+3700,37007,Mooren's ulcer,Mooren's ulcer
+3750,37142,Recurrent cornea erosion,Recurrent erosion of cornea
+3800,3539,Nerv root/plexus dis NOS,Unspecified nerve root and plexus disorder
+3850,35921,Myotonic musclr dystrphy,Myotonic muscular dystrophy
+3900,36064,Foreign body in vitreous,Foreign body in vitreous
+3950,36226,Retinoph prematr.stage 4,"Retinopathy of prematurity, stage 4"
+4000,36306,Macular focal retinitis,"Focal retinitis and retinochoroiditis, macular or paramacular"
+4050,3643,Iridocyclitis NOS,Unspecified iridocyclitis
+4100,36543,Glauc w ant seg anom NEC,Glaucoma associated with other anterior segment anomalies
+4150,36645,Toxic cataract,Toxic cataract
+4200,44020,Athscl extrm ntv art NOS,"Atherosclerosis of native arteries of the extremities, unspecified"
+4250,44481,Iliac artery embolism,Embolism and thrombosis of iliac artery
+4300,39891,Rheumatic heart failure,Rheumatic heart failure (congestive)
+4350,41050,"AMI lateral NEC, unspec","Acute myocardial infarction of other lateral wall, episode of care unspecified"
+4400,4170,Arterioven fistu pul ves,Arteriovenous fistula of pulmonary vessels
+4450,42652,Rt bbb/lft ant fasc blk,Right bundle branch block and left anterior fascicular block
+4500,42989,Ill-defined hrt dis NEC,Other ill-defined heart diseases
+4550,3920,Rheum chorea w hrt invol,Rheumatic chorea with heart involvement
+4600,38811,Acoustic trauma,Acoustic trauma (explosive) to ear
+4650,37234,Pingueculitis,Pingueculitis
+4700,37411,Senile ectropion,Senile ectropion
+4750,37533,Phlegmon dacryocystitis,Phlegmonous dacryocystitis
+4800,37700,Papilledema NOS,"Papilledema, unspecified"
+4850,37813,Monoc exotrop w v pattrn,Monocular exotropia with V pattern
+4900,37905,Scleritis w cornea invol,Scleritis with corneal involvement
+4950,56402,Outlet dysfnc constption,Outlet dysfunction constipation
+5000,56982,Ulceration of intestine,Ulceration of intestine
+5050,43410,Crbl emblsm wo infrct,Cerebral embolism without mention of cerebral infarction
+5100,49310,Intrinsic asthma NOS,"Intrinsic asthma, unspecified"
+5150,5119,Pleural effusion NOS,Unspecified pleural effusion
+5200,5228,Radicular cyst,Radicular cyst
+5250,52434,Vertical displace-teeth,Vertical displacement of teeth
+5300,5205,Heredit tooth struct NEC,"Hereditary disturbances in tooth structure, not elsewhere classified"
+5350,45376,Ch embl internl jug vein,Chronic venous embolism and thrombosis of internal jugular veins
+5400,45912,Postphlebtc syn w inflam,Postphlebetic syndrome with inflammation
+5450,4738,Chronic sinusitis NEC,Other chronic sinusitis
+5500,481,Pneumococcal pneumonia,Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]
+5550,55300,Unilat femoral hernia,"Femoral hernia without mention of obstruction of gangrene, unilateral or unspecified(not specified as recurrent)"
+5600,6178,Endometriosis NEC,Endometriosis of other specified sites
+5650,6218,Disorders of uterus NEC,"Other specified disorders of uterus, not elsewhere classified"
+5700,63490,Spon abort uncompl-unsp,"Spontaneous abortion, without mention of complication, unspecified"
+5750,6254,Premenstrual tension,Premenstrual tension syndromes
+5800,57140,Chronic hepatitis NOS,"Chronic hepatitis, unspecified"
+5850,5756,Gb cholesterolosis,Cholesterolosis of gallbladder
+5900,5837,Nephr NOS/medull necros,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of renal medullary necrosis"
+5950,52579,Endos dentl imp fail NEC,Other endosseous dental implant failure
+6000,5300,Achalasia & cardiospasm,Achalasia and cardiospasm
+6050,53250,Chr duoden ulcer w perf,"Chronic or unspecified duodenal ulcer with perforation, without mention of obstruction"
+6100,53530,Alchl gastrtis w/o hmrhg,"Alcoholic gastritis, without mention of hemorrhage"
+6150,55011,Recur unil ing hern-obst,"Inguinal hernia, with obstruction, without mention of gangrene, unilateral or unspecified,recurrent"
+6200,6083,Atrophy of testis,Atrophy of testis
+6250,61611,Vaginitis in oth disease,Vaginitis and vulvovaginitis in diseases classified elsewhere
+6300,64673,Liver/bil trct disr-ante,"Liver and biliary tract disorders in pregnancy, antepartum condition or complication"
+6350,5962,Vesical fistula NEC,"Vesical fistula, not elsewhere classified"
+6400,60090,BPH NOS w/o ur obs/LUTS,"Hyperplasia of prostate, unspecified, without urinary obstruction and other lower urinary symptoms (LUTS)"
+6450,64810,Thyroid dysfun preg-unsp,"Thyroid dysfunction of mother, unspecified as to episode of care or not applicable"
+6500,64910,Obesity-unspecified,"Obesity complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable"
+6550,63660,Illeg ab w embolism-unsp,"Illegally induced abortion, complicated by embolism, unspecified"
+6600,6388,Attemp abort w compl NOS,Failed attempted abortion with unspecified complication
+6650,64222,Old hyperten-deliv w p/p,"Other pre-existing hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with mention of postpartum complication"
+6700,64410,Threat labor NEC-unspec,"Other threatened labor, unspecified as to episode of care or not applicable"
+6750,65230,Transv/obliq lie-unspec,"Transverse or oblique presentation, unspecified as to episode of care or not applicable"
+6800,65393,Dispropor NOS-antepartum,"Unspecified disproportion, antepartum condition or complication"
+6850,65501,Fetal cns malform-deliv,"Central nervous system malformation in fetus, delivered, with or without mention of antepartum condition"
+6900,82009,Fx femur intrcaps NEC-cl,Other closed transcervical fracture of neck of femur
+6950,65630,Fetal distress-unspec,"Fetal distress, affecting management of mother, unspecified as to episode of care or not applicable"
+7000,66071,Failed forceps NOS-deliv,"Failed forceps or vacuum extractor, unspecified, delivered, with or without mention of antepartum condition"
+7050,66340,Short cord-unspecified,"Short cord complicating labor and delivery, unspecified as to episode of care or not applicable"
+7100,65930,Septicemia in labor-unsp,"Generalized infection during labor, unspecified as to episode of care or not applicable"
+7150,70409,Alopecia NEC,Other alopecia
+7200,75460,Talipes valgus,Talipes valgus
+7250,67813,Fetal conjoin twins-ante,"Fetal conjoined twins, antepartum condition or complication"
+7300,74481,Macrocheilia,Macrocheilia
+7350,74739,Oth anom pul artery/circ,Other anomalies of pulmonary artery and pulmonary circulation
+7400,79672,Pap smear anus w ASC-H,Papanicolaou smear of anus with atypical squamous cells cannot exclude high grade squamous intraepithelial lesion (ASC-H)
+7450,8240,Fx medial malleolus-clos,"Fracture of medial malleolus, closed"
+7500,6926,Dermatitis due to plant,Contact dermatitis and other eczema due to plants [except food]
+7550,74921,Unil cleft palat/lip-com,"Cleft palate with cleft lip, unilateral, complete"
+7600,75235,Septate uterus,Septate uterus
+7650,80011,Cl skull vlt fx w/o coma,"Closed fracture of vault of skull with cerebral laceration and contusion, with no loss of consciousness"
+7700,8322,Nursemaid's elbow,Nursemaid's elbow
+7750,6983,Lichenification,Lichenification and lichen simplex chronicus
+7800,84212,Sprain metacarpophalang,Sprain of metacarpophalangeal (joint) of hand
+7850,71161,Mycotic arthritis-shlder,"Arthropathy associated with mycoses, shoulder region"
+7900,76074,Mat anti-inf aff NB/fet,Anti-infectives affecting fetus or newborn via placenta or breast milk
+7950,80139,Cl skull base fx-concuss,"Closed fracture of base of skull with other and unspecified intracranial hemorrhage, with concussion, unspecified"
+8000,85181,Brain lacer NEC w/o coma,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with no loss of consciousness"
+8050,8360,Tear med menisc knee-cur,"Tear of medial cartilage or meniscus of knee, current"
+8100,83916,Disloc 6th cerv vert-opn,"Open dislocation, sixth cervical vertebra"
+8150,7099,Skin disorder NOS,Unspecified disorder of skin and subcutaneous tissue
+8200,7558,Congen limb anomaly NEC,Other specified anomalies of unspecified limb
+8250,75832,Velo-cardio-facial synd,Velo-cardio-facial syndrome
+8300,80124,Cl skl base fx-prol coma,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with prolonged [more than 24 hours] loss of consciousness and return to pre-existing conscious level"
+8350,71662,Monoarthritis NOS-up/arm,"Unspecified monoarthritis, upper arm"
+8400,71195,Inf arthrit NOS-pelvis,"Unspecified infective arthritis, pelvic region and thigh"
+8450,71295,Cryst arthrop NOS-pelvis,"Unspecified crystal arthropathy, pelvic region and thigh"
+8500,76498,Fet grwth ret 2000-2499g,"Fetal growth retardation, unspecified, 2,000-2,499 grams"
+8550,80222,Subcondylar fx mandib-cl,"Closed fracture of mandible, subcondylar"
+8600,7137,Arthrop w system dis NEC,Other general diseases with articular involvement
+8650,71595,Osteoarthros NOS-pelvis,"Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh"
+8700,76873,Sev hypox-ischem enceph,Severe hypoxic-ischemic encephalopathy
+8750,80340,Cl skl fx NEC/br inj NEC,"Other closed skull fracture with intracranial injury of other and unspecified nature, unspecified state of consciousness"
+8800,80411,Cl skl w oth fx w/o coma,"Closed fractures involving skull or face with other bones, with cerebral laceration and contusion, with no loss of consciousness"
+8850,85409,Brain inj NEC-concussion,"Intracranial injury of other and unspecified nature without mention of open intracranial wound, with concussion, unspecified"
+8900,71928,Villonod synovit-jt NEC,"Villonodular synovitis, other specified sites"
+8950,7796,Termination of pregnancy,Termination of pregnancy (fetus)
+9000,7811,Smell & taste disturb,Disturbances of sensation of smell and taste
+9050,77181,NB septicemia [sepsis],Septicemia [sepsis] of newborn
+9100,80375,Opn skl fx NEC-deep coma,"Other open skull fracture with subarachnoid, subdural, and extradural hemorrhage, with prolonged [more than 24 hours] loss of consciousness, without return to pre-existing conscious level"
+9150,85245,Extradural hem-deep coma,"Extradural hemorrhage following injury without mention of open intracranial wound, with prolonged [more than 24 hours] loss of consciousness without return to pre-existing conscious level"
+9200,71836,Recur dislocat-l/leg,"Recurrent dislocation of joint, lower leg"
+9250,77589,Neonat endo/met dis NEC,Other neonatal endocrine and metabolic disturbances
+9300,86395,Appendix injury-open,"Injury to appendix, with open wound into cavity"
+9350,94229,2nd deg burn trunk NEC,"Blisters, epidermal loss [second degree] of other and multiple sites of trunk"
+9400,80714,Fracture four ribs-open,Open fracture of four ribs
+9450,V1361,Hx-hypospadias,Personal history of (corrected) hypospadias
+9500,9560,Injury sciatic nerve,Injury to sciatic nerve
+9550,9832,Toxic eff caustic alkali,Toxic effect of caustic alkalis
+9600,9914,Immersion foot,Immersion foot
+9650,E0111,Handheld interac elec dv,Activities involving hand held interactive electronic device
+9700,67140,Deep thromb postpar-unsp,"Deep phlebothrombosis, postpartum, unspecified as to episode of care or not applicable"
+9750,95913,Fx corpus cavrnosm penis,Fracture of corpus cavernosum penis
+9800,E8375,Watercraft explos-swim,"Explosion, fire, or burning in watercraft injuring swimmer"
+9850,E8908,Priv dwel fire-accid NEC,Other accident resulting from conflagration in private dwelling
+9900,E9447,Adv eff uric acid metab,Uric acid metabolism drugs causing adverse effects in therapeutic use
+9950,E9505,Poison-drug/medicin NOS,Suicide and self-inflicted poisoning by unspecified drug or medicinal substance
+10000,73321,Solitary bone cyst,Solitary bone cyst
+10050,E8401,Tk off/land-milit craft,"Accident to powered aircraft at takeoff or landing injuring occupant of military aircraft, any"
+10100,V1588,Personal history of fall,History of fall
+10150,V4611,Respirator depend status,"Dependence on respirator, status"
+10200,V4984,Bed confinement status,Bed confinement status
+10250,8672,Ureter injury-closed,"Injury to ureter, without mention of open wound into cavity"
+10300,81213,Fx gr tuberos humer-open,Open fracture of greater tuberosity of humerus
+10350,67333,Ob pyemic embol-antepart,"Obstetrical pyemic and septic embolism, antepartum condition or complication"
+10400,9603,Pois-erythromyc/macrolid,Poisoning by erythromycin and other macrolides
+10450,9191,Abrasion NEC-infected,"Abrasion or friction burn of other, multiple, and unspecified sites, infected"
+10500,99554,Child physical abuse,Child physical abuse
+10550,94330,3rd deg burn arm NOS,"Full-thickness skin [third degree, not otherwise specified] of upper limb, unspecified site"
+10600,67430,Ob surg compl NEC-unspec,"Other complications of obstetrical surgical wounds, unspecified as to episode of care or not applicable"
+10650,73604,Varus deformity wrist,Varus deformity of wrist (acquired)
+10700,E8446,Aircr acc NEC-unp aircr,"Other specified air transport accidents injuring occupant of unpowered aircraft, except parachutist"
+10750,E9103,Swimming/diving acc NEC,Accidental drowning and submersion while swimming or diving for purposes other than recreation or sport
+10800,E8042,Fall from train-pedest,"Fall in, on, or from railway train injuring pedestrian"
+10850,E9550,Injury-handgun,Suicide and self-inflicted injury by handgun
+10900,73733,Radiation scoliosis,Scoliosis due to radiation
+10950,79431,Abnorm electrocardiogram,Nonspecific abnormal electrocardiogram [ECG] [EKG]
+11000,V220,Supervis normal 1st preg,Supervision of normal first pregnancy
+11050,V6284,Suicidal ideation,Suicidal ideation
+11100,V6700,Follow-up surgery NOS,"Follow-up examination, following surgery, unspecified"
+11150,94406,Burn NOS back of hand,Burn of unspecified degree of back of hand
+11200,79507,Sat cerv smr-no trnsfrm,Satisfactory cervical smear but lacking transformation zone
+11250,81413,"Fx triquetral, wrist-opn",Open fracture of triquetral [cuneiform] bone of wrist
+11300,9038,Injury arm vessels NEC,Injury to other specified blood vessels of upper extremity
+11350,9684,Pois-gen anesth NEC/NOS,Poisoning by other and unspecified general anesthetics
+11400,99586,Malignant hyperthermia,Malignant hyperthermia
+11450,E8124,Mv collision NOS-st car,Other motor vehicle traffic accident involving collision with motor vehicle injuring occupant of streetcar
+11500,81610,"Fx phalanx, hand NOS-opn","Open fracture of phalanx or phalanges of hand, unspecified"
+11550,96909,Pois antidepressants NEC,Poisoning by other antidepressants
+11600,E8551,Acc poisn-cns depres NEC,Accidental poisoning by other central nervous system depressants
+11650,E9205,Acc-hypodermic needle,Accidents caused by hypodermic needle
+11700,E9285,Ext constriction-obj NEC,External constriction caused by other object
+11750,E9681,Asslt-push from hi place,Assault by pushing from a high place
+11800,7402,Iniencephaly,Iniencephaly
+11850,74355,Cong macular change-eye,Congenital macular changes
+11900,E8629,Acc poisn-solvent NOS,"Accidental poisoning by unspecified solvent, not elsewhere classified"
+11950,V433,Heart valve replac NEC,Heart valve replaced by other means
+12000,V5339,Ftng oth cardiac device,Fitting and adjustment of other cardiac device
+12050,71990,Joint dis NOS-unspec jt,"Unspecified disorder of joint, site unspecified"
+12100,72292,Disc dis NEC/NOS-thorac,"Other and unspecified disc disorder, thoracic region"
+12150,V016,Venereal dis contact,Contact with or exposure to venereal diseases
+12200,V051,Vacc arboviral dis NEC,Need for prophylactic vaccination and inoculation against other arthropod-borne viral diseases
+12250,9066,Late eff wrist/hand burn,Late effect of burn of wrist and hand
+12300,9745,Pois-electro/cal/wat agt,"Poisoning by electrolytic, caloric, and water-balance agents"
+12350,99687,Comp intestine transplnt,Complications of transplanted intestine
+12400,78443,Hypernasality,Hypernasality
+12450,80515,Fx c5 vertebra-open,Open fracture of fifth cervical vertebra
+12500,9474,Burn of vagina & uterus,Burn of vagina and uterus
+12550,E8652,Acc poison-fish NEC,Accidental poisoning from other fish
+12600,99883,Non-healing surgcl wound,Non-healing surgical wound
+12650,E9349,Adv eff blood agent NOS,Unspecified agent affecting blood constituents causing adverse effects in therapeutic use
+12700,66914,Obstetric shock-postpart,"Shock during or following labor and delivery, postpartum condition or complication"
+12750,E8231,Oth coll stndng obj-psgr,Other motor vehicle nontraffic accident involving collision with stationary object injuring passenger in motor vehicle other than motorcycle
+12800,V5869,Long-term use meds NEC,Long-term (current) use of other medications
+12850,V6111,Cnsl victm partner abuse,Counseling for victim of spousal and partner abuse
+12900,66614,Postpart hem NEC-postpar,"Other immediate postpartum hemorrhage, postpartum condition or complication"
+12950,7268,Periph enthesopathy NEC,Other peripheral enthesopathies
+13000,78605,Shortness of breath,Shortness of breath
+13050,V0731,Prophylac fluoride admin,Need for prophylactic fluoride administration
+13100,9107,Foreign body head-infect,"Superficial foreign body (splinter) of face, neck, and scalp except eye, without major open wound, infected"
+13150,9800,Toxic eff ethyl alcohol,Toxic effect of ethyl alcohol
+13200,94127,2nd deg burn face NEC,"Blisters, epidermal loss [second degree] of forehead and cheek"
+13250,78799,Digestve syst symptm NEC,Other symptoms involving digestive system
+13300,80633,T1-t6 fx-op/cen cord syn,Open fracture of T1-T6 level with central cord syndrome
+13350,8876,"Amputation arm, bilat","Traumatic amputation of arm and hand (complete) (partial), bilateral [any level], without mention of complication"
+13400,E8743,Instrumnt fail-endoscopy,Mechanical failure of instrument or apparatus during endoscopic examination
+13450,99984,Acute HTR NOS,"Acute hemolytic transfusion reaction, incompatibility unspecified"
+13500,E9380,Adv eff cns muscl depres,Central nervous system muscle-tone depressants causing adverse effects in therapeutic use
+13550,66982,Compl del NEC-del w p/p,"Other complications of labor and delivery, delivered, with mention of postpartum complication"
+13600,95209,C5-c7 spin cord inj NEC,C5-C7 level with other specified spinal cord injury
+13650,E8316,Boat acc inj NEC-docker,"Accident to watercraft causing other injury to dockers, stevedores"
+13700,V311,"Twin, mate lb-before adm","Twin birth, mate liveborn, born before admission to hospital"
+13750,E9440,Adv eff mercury diuretic,Mercurial diuretics causing adverse effects in therapeutic use
+13800,72881,Interstitial myositis,Interstitial myositis
+13850,73020,Osteomyelitis NOS-unspec,"Unspecified osteomyelitis, site unspecified"
+13900,E8332,Wtrcraft stair fall-crew,Fall on stairs or ladders in water transport injuring occupant of other watercraft -- crew
+13950,V1259,Hx-circulatory dis NEC,Personal history of other diseases of circulatory system
+14000,V9089,Retain FB NEC,Other specified retained foreign body
+14050,V708,General medical exam NEC,Other specified general medical examinations
+14100,85110,Cortex contusion/opn wnd,"Cortex (cerebral) contusion with open intracranial wound, unspecified state of consciousness"
+14150,71986,Joint dis NEC-l/leg,"Other specified disorders of joint, lower leg"
+14200,E9881,"Undeterm circ-burn, fire","Injury by burns or fire, undetermined whether accidentally or purposely inflicted"
+14250,8745,Open wound pharynx-compl,"Open wound of pharynx, complicated"
+14300,94542,Deep 3rd deg burn foot,"Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part, of foot"
+14350,E8198,Traffic acc NOS-pers NEC,Motor vehicle traffic accident of unspecified nature injuring other specified person
+14400,E9938,War inj:explosion NEC,Injury due to war operations by other specified explosion
+14450,V758,Screen-parasitic dis NEC,Screening examination for other specified parasitic infections
+14500,V803,Screening for ear dis,Screening for ear diseases
+14550,V8543,"BMI 50.0-59.9, adult","Body Mass Index 50.0-59.9, adult"
